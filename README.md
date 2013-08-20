@@ -13,5 +13,5 @@ PHP: Include the file... call getColor(string);
 
 
 Screen cap using flot:
-[Imgur](http://i.imgur.com/i6BNVZa)
+![ScreenShot](http://i.imgur.com/i6BNVZa.png)
 
