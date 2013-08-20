@@ -1,7 +1,7 @@
 ColorByName
 ===========
 
-#Why use this over random or a set list of colors in a graph?#
+###Why use this over random or a set list of colors in a graph?###
 * Every label in every graph gets the same color every time based on the label
 * Comparing data in multiple graphs becomes easy
 
